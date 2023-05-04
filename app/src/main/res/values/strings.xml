@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">O erro acontece de vários modos, enquanto ser correto é possível apenas de um modo. - Aristóteles</string>
+    <string name="affirmation2">Nenhum mentiroso tem uma memória suficientemente boa para ser um mentiroso de êxito. - Abraham Lincoln</string>
+    <string name="affirmation3">Conhecimento é estar ciente do que você pode fazer. Sabedoria é saber quando não fazer. - Anonymous</string>
+    <string name="affirmation4">Persistência é a irmã gêmea da excelência. Uma é a mãe da qualidade, a outra é a mãe do tempo. - Marabel Morgan</string>
+    <string name="affirmation5">Tente não se tornar uma pessoa de sucesso, mas tente se tornar uma pessoa de valor. - Albert Einstein</string>
+    <string name="affirmation6">O sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz isso. - Maya Angelou</string>
+    <string name="affirmation7">O guerreiro de sucesso é um homem médio, mas com um foco apurado como um raio laser. - Bruce Lee</string>
+    <string name="affirmation8">Um verdadeiro empreendedor é alguém que não tem rede de segurança por baixo deles. - Henry Kravis</string>
+    <string name="affirmation9">Todo o segredo de uma vida bem-sucedida é descobrir qual é o destino de cada um e, então, fazer. - Henry Ford</string>
+    <string name="affirmation10">O caminho para o sucesso e o caminho para o fracasso são quase exatamente os mesmos. - Colin R. Davis</string>
+</resources>
