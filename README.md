@@ -16,3 +16,5 @@
 📰<b>Informações</b>: <br> projeto realizado em sala de aula, aprendendo novos conceitos como Recycler View. Kotlin - Android Studio - 10/05/23
 <hr>
 📈<b>Projeto</b>: <br> Finalizado
+<hr>
+ <h2>Aprenda também em: </h2><h3>https://developer.android.com/codelabs/basic-android-kotlin-training-affirmations-app-polish#0</h3>
